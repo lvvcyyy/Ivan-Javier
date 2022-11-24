@@ -1,0 +1,10 @@
+C:\Users\ComputerLab4PC1\Desktop\Muit\CreatingTextfile\bin\Debug\CreatingTextfile.exe.config
+C:\Users\ComputerLab4PC1\Desktop\Muit\CreatingTextfile\bin\Debug\CreatingTextfile.exe
+C:\Users\ComputerLab4PC1\Desktop\Muit\CreatingTextfile\bin\Debug\CreatingTextfile.pdb
+C:\Users\ComputerLab4PC1\Desktop\Muit\CreatingTextfile\obj\Debug\CreatingTextfile.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\Desktop\Muit\CreatingTextfile\obj\Debug\CreatingTextfile.FrmRegistration.resources
+C:\Users\ComputerLab4PC1\Desktop\Muit\CreatingTextfile\obj\Debug\CreatingTextfile.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\Desktop\Muit\CreatingTextfile\obj\Debug\CreatingTextfile.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\Desktop\Muit\CreatingTextfile\obj\Debug\CreatingTextfile.exe
+C:\Users\ComputerLab4PC1\Desktop\Muit\CreatingTextfile\obj\Debug\CreatingTextfile.pdb
+C:\Users\ComputerLab4PC1\Desktop\Muit\CreatingTextfile\obj\Debug\CreatingTextfile.FrmStudentRecord.resources
